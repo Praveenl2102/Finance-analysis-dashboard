@@ -1,0 +1,1065 @@
+LOCATION,ITEM,COST,DATE,Food(Boolean),Sick(Boolean),Price_Ranges
+Safeway,Food,$8.40,2/14/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.97,7/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$12.99,2/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.18,2/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$10.48,2/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/13/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,5/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$8.39,11/29/18,Food,Healthy,$0 - $20
+Safeway,Food,$10.99,7/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.67,11/29/18,Food,Healthy,$0 - $20
+Safeway,Food,$12.13,11/27/18,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,10/2/18,Food,Healthy,$0 - $20
+Safeway,Food,$36.54,2/17/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,3/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$10.93,5/14/20,Food,Healthy,$0 - $20
+Safeway,Food,$19.00,7/16/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,7/17/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.01,12/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,7/19/19,Food,Healthy,$0 - $20
+Safeway,Food,$35.36,12/23/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,12/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.99,7/19/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.40,2/7/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.97,7/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,7/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.97,2/5/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/31/20,Food,Healthy,$0 - $20
+Safeway,Food,$12.59,1/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,7/8/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$46.03,3/28/20,Food,Healthy,$20 - $50
+Safeway,Food,$4.09,7/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.41,7/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.19,11/19/18,Food,Healthy,$0 - $20
+Safeway,Food,$10.45,11/14/18,Food,Healthy,$0 - $20
+Safeway,Food,$20.16,9/4/20,Food,Healthy,$20 - $50
+Safeway,Food,$83.10,9/24/20,Food,Healthy,$50 - $100
+Safeway,Food,$6.20,12/18/18,Food,Healthy,$0 - $20
+Safeway,Food,$19.59,12/17/18,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,12/14/18,Food,Healthy,$0 - $20
+Safeway,Food,$31.00,12/29/19,Food,Healthy,$20 - $50
+Safeway,Food,$19.71,9/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$9.44,12/3/18,Food,Healthy,$0 - $20
+Safeway,Food,$4.99,12/11/18,Food,Healthy,$0 - $20
+Safeway,Food,$3.25,12/11/18,Food,Healthy,$0 - $20
+Safeway,Food,$0.73,12/9/18,Food,Healthy,$0 - $20
+Safeway,Food,$7.96,11/19/18,Food,Healthy,$0 - $20
+Safeway,Food,$13.43,10/8/18,Food,Healthy,$0 - $20
+Safeway,Food,$11.99,10/11/18,Food,Healthy,$0 - $20
+Safeway,Food,$12.98,11/18/18,Food,Healthy,$0 - $20
+Safeway,Food,$3.97,11/15/18,Food,Healthy,$0 - $20
+Safeway,Food,$9.84,9/1/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.34,10/31/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.01,10/3/18,Food,Healthy,$0 - $20
+Safeway,Food,$10.60,10/4/18,Food,Healthy,$0 - $20
+Safeway,Food,$29.98,10/23/20,Food,Healthy,$20 - $50
+Safeway,Food,$6.20,10/27/18,Food,Healthy,$0 - $20
+Safeway,Food,$8.75,10/25/18,Food,Healthy,$0 - $20
+Safeway,Food,$6.22,10/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.63,10/22/18,Food,Healthy,$0 - $20
+Safeway,Food,$81.09,10/22/20,Food,Healthy,$50 - $100
+Safeway,Food,$5.37,10/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.60,10/7/18,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,10/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$52.14,10/30/20,Food,Healthy,$50 - $100
+Safeway,Food,$8.40,10/11/18,Food,Healthy,$0 - $20
+Safeway,Food,$7.04,10/22/18,Food,Healthy,$0 - $20
+Safeway,Food,$3.79,2/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$10.63,1/5/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,12/28/19,Food,Healthy,$0 - $20
+Safeway,Food,$39.70,5/5/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,8/23/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,8/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$13.99,8/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,8/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,12/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$28.69,6/11/19,Food,Healthy,$20 - $50
+Safeway,Food,$37.44,5/19/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,8/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,6/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,6/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,6/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.87,8/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,8/25/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,8/26/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,5/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$38.75,5/30/20,Food,Healthy,$20 - $50
+Safeway,Food,$29.27,5/21/20,Food,Healthy,$20 - $50
+Safeway,Food,$3.29,8/23/19,Food,Healthy,$0 - $20
+Safeway,Food,$15.32,8/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,8/19/19,Food,Healthy,$0 - $20
+Safeway,Food,$22.44,6/5/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.15,12/20/18,Food,Healthy,$0 - $20
+Safeway,Food,$24.75,7/31/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,6/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$12.83,12/6/19,Food,Healthy,$0 - $20
+Safeway,Food,$13.53,5/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,12/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.99,5/23/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,7/27/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.99,12/11/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.51,5/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$19.82,7/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.97,6/30/20,Food,Healthy,$0 - $20
+Safeway,Food,$25.27,2/9/20,Food,Healthy,$20 - $50
+Safeway,Food,$29.29,7/26/19,Food,Healthy,$20 - $50
+Safeway,Food,$7.16,3/4/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.97,7/17/19,Food,Healthy,$0 - $20
+Safeway,Food,$44.86,7/31/19,Food,Healthy,$20 - $50
+Safeway,Food,$7.78,5/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$3.99,8/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$24.96,6/4/19,Food,Healthy,$20 - $50
+Safeway,Food,$15.68,5/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.29,5/3/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,8/31/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.99,7/7/19,Food,Healthy,$0 - $20
+Safeway,Food,$10.55,3/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,1/30/19,Food,Healthy,$0 - $20
+Safeway,Food,$21.09,3/7/20,Food,Healthy,$20 - $50
+Safeway,Food,$6.20,1/26/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.54,3/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.35,1/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.08,1/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$13.05,1/18/19,Food,Healthy,$0 - $20
+Safeway,Food,$0.30,1/15/19,Food,Healthy,$0 - $20
+Safeway,Food,$0.74,1/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.38,12/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,1/14/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.09,7/15/19,Food,Healthy,$0 - $20
+Safeway,Food,$16.38,1/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$25.26,3/18/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.84,5/31/20,Food,Healthy,$0 - $20
+Safeway,Food,$32.18,5/13/20,Food,Healthy,$20 - $50
+Safeway,Food,$28.10,5/27/20,Food,Healthy,$20 - $50
+Safeway,Food,$42.66,12/3/19,Food,Healthy,$20 - $50
+Safeway,Food,$12.59,5/28/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,12/16/19,Food,Healthy,$0 - $20
+Safeway,Food,$20.24,12/27/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,12/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.14,1/8/19,Food,Healthy,$0 - $20
+Safeway,Food,$17.37,1/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$48.33,3/13/20,Food,Healthy,$20 - $50
+Safeway,Food,$12.86,1/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$29.64,3/14/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,3/15/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.00,1/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.56,1/7/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,3/18/20,Food,Healthy,$0 - $20
+Safeway,Food,$3.60,11/11/18,Food,Healthy,$0 - $20
+Safeway,Food,$20.70,12/23/18,Food,Healthy,$20 - $50
+Safeway,Food,$26.28,3/28/19,Food,Healthy,$20 - $50
+Safeway,Food,$87.09,12/22/20,Food,Healthy,$50 - $100
+Safeway,Food,$9.70,1/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$3.11,11/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.47,8/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$17.47,10/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$25.56,4/5/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.87,10/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.99,1/30/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,4/6/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.33,4/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,4/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,10/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,10/23/19,Food,Healthy,$0 - $20
+Safeway,Food,$26.05,3/30/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,4/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$45.78,12/30/20,Food,Healthy,$20 - $50
+Safeway,Food,$25.97,12/28/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,5/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.45,2/20/20,Food,Healthy,$0 - $20
+Safeway,Food,$25.49,5/3/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,6/23/20,Food,Healthy,$0 - $20
+Safeway,Food,$23.28,6/22/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.99,2/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$17.83,12/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.94,12/20/20,Food,Healthy,$0 - $20
+Safeway,Food,$28.30,2/24/20,Food,Healthy,$20 - $50
+Safeway,Food,$2.49,5/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.84,2/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.69,12/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,2/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$17.31,12/26/20,Food,Healthy,$0 - $20
+Safeway,Food,$34.84,3/29/19,Food,Healthy,$20 - $50
+Safeway,Food,$17.34,3/25/19,Food,Healthy,$0 - $20
+Safeway,Food,$17.31,12/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,5/5/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,10/18/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.33,9/26/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.16,9/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,9/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$33.86,1/12/20,Food,Healthy,$20 - $50
+Safeway,Food,$6.48,9/7/19,Food,Healthy,$0 - $20
+Safeway,Food,$30.68,1/14/20,Food,Healthy,$20 - $50
+Safeway,Food,$21.91,9/27/19,Food,Healthy,$20 - $50
+Safeway,Food,$7.99,10/30/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,9/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,9/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,9/6/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.89,9/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,4/1/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.97,9/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$14.99,1/18/20,Food,Healthy,$0 - $20
+Safeway,Food,$46.26,9/17/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,4/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$25.15,1/7/20,Food,Healthy,$20 - $50
+Safeway,Food,$4.98,4/11/20,Food,Healthy,$0 - $20
+Safeway,Food,$15.93,1/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$21.28,1/3/20,Food,Healthy,$20 - $50
+Safeway,Food,$24.65,4/13/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,4/15/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,4/16/20,Food,Healthy,$0 - $20
+Safeway,Food,$25.32,4/20/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,4/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$12.85,4/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,4/26/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.15,1/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,9/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$42.88,5/9/19,Food,Healthy,$20 - $50
+Safeway,Food,$13.98,2/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$35.64,2/2/20,Food,Healthy,$20 - $50
+Safeway,Food,$4.55,5/11/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,6/30/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,5/26/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.99,5/27/19,Food,Healthy,$0 - $20
+Safeway,Food,$32.97,7/24/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.68,5/28/19,Food,Healthy,$0 - $20
+Safeway,Food,$14.80,8/27/20,Food,Healthy,$0 - $20
+Safeway,Food,$12.28,6/27/20,Food,Healthy,$0 - $20
+Safeway,Food,$9.46,8/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$33.57,8/31/20,Food,Healthy,$20 - $50
+Safeway,Food,$11.34,12/1/20,Food,Healthy,$0 - $20
+Safeway,Food,$23.98,6/28/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.99,2/11/20,Food,Healthy,$0 - $20
+Safeway,Food,$8.50,2/14/20,Food,Healthy,$0 - $20
+Safeway,Food,$16.34,12/3/20,Food,Healthy,$0 - $20
+Safeway,Food,$10.46,12/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$26.87,12/15/20,Food,Healthy,$20 - $50
+Safeway,Food,$12.41,5/16/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,6/6/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,7/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$36.02,2/20/20,Food,Healthy,$20 - $50
+Safeway,Food,$13.37,7/26/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.37,7/27/20,Food,Healthy,$0 - $20
+Safeway,Food,$29.36,5/25/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.94,12/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$26.33,7/28/20,Food,Healthy,$20 - $50
+Safeway,Food,$24.53,7/30/20,Food,Healthy,$20 - $50
+Safeway,Food,$11.99,5/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.13,5/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$17.33,7/31/20,Food,Healthy,$0 - $20
+Safeway,Food,$8.28,5/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$10.90,7/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$32.73,12/9/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.23,5/17/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.98,2/23/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.33,6/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$17.18,12/6/20,Food,Healthy,$0 - $20
+Safeway,Food,$17.16,5/31/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,6/15/20,Food,Healthy,$0 - $20
+Safeway,Food,$16.62,6/14/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,2/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$45.08,2/1/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,6/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,6/11/20,Food,Healthy,$0 - $20
+Safeway,Food,$27.42,6/10/20,Food,Healthy,$20 - $50
+Safeway,Food,$20.36,6/2/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.16,6/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$18.00,6/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$18.55,3/17/19,Food,Healthy,$0 - $20
+Safeway,Food,$8.89,6/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$29.63,3/20/19,Food,Healthy,$20 - $50
+Safeway,Food,$28.38,3/14/19,Food,Healthy,$20 - $50
+Safeway,Food,$16.65,2/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.00,6/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$38.97,3/8/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,6/16/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.32,3/10/19,Food,Healthy,$20 - $50
+Safeway,Food,$54.71,6/16/20,Food,Healthy,$50 - $100
+Safeway,Food,$24.53,6/25/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,12/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,5/31/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.49,5/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.86,12/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,5/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.49,9/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.99,2/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$34.25,2/28/20,Food,Healthy,$20 - $50
+Safeway,Food,$12.27,5/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.76,5/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$13.13,2/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.56,3/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,6/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,6/20/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.33,7/23/20,Food,Healthy,$20 - $50
+Safeway,Food,$3.98,1/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$32.81,6/4/20,Food,Healthy,$20 - $50
+Safeway,Food,$20.56,10/31/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.66,11/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,4/15/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.99,4/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.97,11/11/20,Food,Healthy,$0 - $20
+Safeway,Food,$3.14,4/28/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,8/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.01,8/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$20.96,11/8/20,Food,Healthy,$20 - $50
+Safeway,Food,$47.59,11/9/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.34,6/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$12.36,11/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$22.52,8/6/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.34,11/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.97,8/8/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.03,11/3/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.19,9/19/18,Food,Healthy,$0 - $20
+Safeway,Food,$14.37,9/29/18,Food,Healthy,$0 - $20
+Safeway,Food,$33.41,10/13/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,4/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.10,11/27/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.50,4/12/19,Food,Healthy,$0 - $20
+Safeway,Food,$31.09,10/10/20,Food,Healthy,$20 - $50
+Safeway,Food,$77.00,10/18/20,Food,Healthy,$50 - $100
+Safeway,Food,$5.35,9/7/18,Food,Healthy,$0 - $20
+Safeway,Food,$8.92,8/11/19,Food,Healthy,$0 - $20
+Safeway,Food,$25.25,9/16/18,Food,Healthy,$20 - $50
+Safeway,Food,$11.96,9/17/18,Food,Healthy,$0 - $20
+Safeway,Food,$1.17,4/9/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.89,9/19/18,Food,Healthy,$0 - $20
+Safeway,Food,$17.71,9/21/18,Food,Healthy,$0 - $20
+Safeway,Food,$9.76,9/13/18,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,4/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,5/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.06,4/25/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,10/27/18,Food,Healthy,$0 - $20
+Safeway,Food,$14.99,9/15/20,Food,Healthy,$0 - $20
+Safeway,Food,$29.98,9/14/20,Food,Healthy,$20 - $50
+Safeway,Food,$23.43,9/10/20,Food,Healthy,$20 - $50
+Safeway,Food,$4.29,11/4/18,Food,Healthy,$0 - $20
+Safeway,Food,$3.49,11/6/18,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,11/7/18,Food,Healthy,$0 - $20
+Safeway,Food,$11.23,9/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.54,11/9/18,Food,Healthy,$0 - $20
+Safeway,Food,$5.60,1/19/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,10/31/18,Food,Healthy,$0 - $20
+Safeway,Food,$3.99,8/15/19,Food,Healthy,$0 - $20
+Safeway,Food,$20.31,11/14/20,Food,Healthy,$20 - $50
+Safeway,Food,$11.40,4/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,4/19/19,Food,Healthy,$0 - $20
+Safeway,Food,$33.41,4/19/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,4/20/19,Food,Healthy,$0 - $20
+Safeway,Food,$19.61,4/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,4/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/6/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.96,11/20/20,Food,Healthy,$20 - $50
+Safeway,Food,$7.99,4/27/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.06,4/25/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/19/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.96,11/17/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,11/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/16/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.99,4/30/19,Food,Healthy,$0 - $20
+Safeway,Food,$13.33,11/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$34.94,11/26/20,Food,Healthy,$20 - $50
+Safeway,Food,$19.37,4/16/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.50,4/14/19,Food,Healthy,$0 - $20
+Safeway,Food,$16.96,8/17/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.99,11/8/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,11/5/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,11/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$14.25,8/18/20,Food,Healthy,$0 - $20
+Safeway,Food,$31.57,8/19/20,Food,Healthy,$20 - $50
+Safeway,Food,$13.36,8/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,11/14/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,8/20/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.47,8/25/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.99,11/17/19,Food,Healthy,$0 - $20
+Safeway,Food,$35.69,10/1/19,Food,Healthy,$20 - $50
+Safeway,Food,$13.36,8/4/20,Food,Healthy,$0 - $20
+Safeway,Food,$37.95,8/1/20,Food,Healthy,$20 - $50
+Safeway,Food,$10.83,4/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,4/21/19,Food,Healthy,$0 - $20
+Safeway,Food,$19.93,8/21/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,4/23/20,Food,Healthy,$0 - $20
+Safeway,Food,$18.98,11/18/19,Food,Healthy,$0 - $20
+Safeway,Food,$9.60,8/15/20,Food,Healthy,$0 - $20
+Safeway,Food,$4.99,1/19/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,4/3/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.33,8/26/20,Food,Healthy,$20 - $50
+Safeway,Food,$20.79,4/22/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.36,10/11/19,Food,Healthy,$0 - $20
+Safeway,Food,$11.94,8/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.93,8/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.94,8/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$9.95,8/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.99,11/27/19,Food,Healthy,$0 - $20
+Safeway,Food,$27.43,8/11/20,Food,Healthy,$20 - $50
+Safeway,Food,$12.96,8/12/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,11/26/19,Food,Healthy,$0 - $20
+Safeway,Food,$15.82,8/13/20,Food,Healthy,$0 - $20
+Safeway,Food,$3.24,11/22/19,Food,Healthy,$0 - $20
+Safeway,Food,$20.98,11/21/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.94,8/10/20,Food,Healthy,$0 - $20
+Safeway,Food,$36.23,10/3/19,Food,Healthy,$20 - $50
+Safeway,Food,$5.37,4/28/20,Food,Healthy,$0 - $20
+Safeway,Food,$28.44,4/29/20,Food,Healthy,$20 - $50
+Safeway,Food,$18.35,7/22/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,10/10/19,Food,Healthy,$0 - $20
+Safeway,Food,$14.99,11/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.99,11/28/19,Food,Healthy,$0 - $20
+Safeway,Food,$14.60,7/5/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.36,6/24/19,Food,Healthy,$0 - $20
+Safeway,Food,$31.51,3/3/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.65,6/19/19,Food,Healthy,$0 - $20
+Safeway,Food,$32.16,10/8/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.98,4/4/19,Food,Healthy,$0 - $20
+Safeway,Food,$3.99,4/3/19,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,4/8/19,Food,Healthy,$0 - $20
+Safeway,Food,$23.97,10/1/20,Food,Healthy,$20 - $50
+Safeway,Food,$18.92,10/9/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,11/29/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.34,7/20/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.34,7/18/20,Food,Healthy,$0 - $20
+Safeway,Food,$20.36,7/19/20,Food,Healthy,$20 - $50
+Safeway,Food,$22.07,1/2/20,Food,Healthy,$20 - $50
+Safeway,Food,$9.78,4/30/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,10/14/19,Food,Healthy,$0 - $20
+Safeway,Food,$26.20,10/6/19,Food,Healthy,$20 - $50
+Safeway,Food,$16.85,7/16/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.97,7/1/20,Food,Healthy,$0 - $20
+Safeway,Food,$14.62,7/2/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.99,4/11/19,Food,Healthy,$0 - $20
+Safeway,Food,$6.20,11/27/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,7/6/20,Food,Healthy,$0 - $20
+Safeway,Food,$19.62,7/7/20,Food,Healthy,$0 - $20
+Safeway,Food,$13.36,7/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$5.34,7/11/20,Food,Healthy,$0 - $20
+Safeway,Food,$19.33,7/13/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.94,7/14/20,Food,Healthy,$0 - $20
+Safeway,Food,$7.96,7/4/20,Food,Healthy,$0 - $20
+Safeway,Food,$37.91,10/5/19,Food,Healthy,$20 - $50
+Safeway,Personal,$3.66,7/22/19,Other,Healthy,$0 - $20
+Safeway,Personal,$9.96,1/11/20,Other,Healthy,$0 - $20
+Safeway,Medicine,$14.16,11/16/18,Other,Healthy,$0 - $20
+Safeway,Medicine,$12.59,11/19/18,Other,Healthy,$0 - $20
+Safeway,Fitness,$1.56,3/16/19,Other,Healthy,$0 - $20
+Safeway,Cleaning,$6.59,9/1/19,Other,Healthy,$0 - $20
+Uber,Uber,$24.76,1/2/20,Other,Healthy,$20 - $50
+Uber,Transportation,$13.08,1/9/19,Other,Healthy,$0 - $20
+Uber,Transportation,$36.84,12/31/18,Other,Healthy,$20 - $50
+Uber,Transportation,$12.01,2/9/19,Other,Healthy,$0 - $20
+Wal-Mart,Toys,$15.75,12/7/18,Other,Healthy,$0 - $20
+Active Living,Squash Wristband,$5.25,12/29/18,Other,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/11/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/8/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/1/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/3/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.38,4/27/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/18/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/23/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,4/10/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/22/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,4/7/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$4.67,4/22/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,4/5/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$7.34,2/8/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/4/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,11/13/18,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$55.00,12/31/19,Restaurant,Healthy,$50 - $100
+Subway,Restaurant,$8.39,12/10/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,2/7/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/17/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$7.34,2/10/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,2/13/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$7.34,2/16/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.43,3/27/20,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/7/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/24/19,Restaurant,Healthy,$0 - $20
+LDL,Restaurant,$11.55,4/2/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,1/28/19,Restaurant,Healthy,$0 - $20
+Blaze Pizza,Restaurant,$13.50,10/12/18,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$33.18,10/6/18,Restaurant,Healthy,$20 - $50
+Starbucks,Restaurant,$9.03,11/16/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,11/15/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/22/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/23/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/24/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,4/23/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.38,4/26/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/25/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,4/13/19,Restaurant,Healthy,$0 - $20
+Good Earth,Restaurant,$6.72,11/15/18,Restaurant,Healthy,$0 - $20
+Ten Foot Henry,Restaurant,$43.51,8/4/19,Restaurant,Healthy,$20 - $50
+Made by Marcus,Restaurant,$6.00,8/4/19,Restaurant,Healthy,$0 - $20
+Pho Kim Vy,Restaurant,$13.60,10/24/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,10/30/18,Restaurant,Healthy,$0 - $20
+McDonald's,Restaurant,$9.20,9/28/18,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$36.93,11/28/20,Restaurant,Healthy,$20 - $50
+Burger King,Restaurant,$21.48,11/10/20,Restaurant,Healthy,$20 - $50
+Starbucks,Restaurant,$5.51,4/11/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/3/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,3/10/20,Restaurant,Healthy,$0 - $20
+7 Eleven,Restaurant,$11.00,2/19/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/10/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/11/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/12/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/13/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,12/15/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,4/8/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/6/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/7/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/21/19,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$21.89,11/1/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$6.39,11/1/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/3/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,11/4/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,11/8/19,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$25.18,11/12/19,Restaurant,Healthy,$20 - $50
+Wendy's,Restaurant,$7.21,11/19/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/19/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/20/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/22/19,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$7.21,11/22/19,Restaurant,Healthy,$0 - $20
+Telus Spark,Restaurant,$18.35,11/25/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/26/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,11/28/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$11.70,11/29/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,2/19/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/2/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,11/8/18,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,2/21/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,2/27/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.39,12/13/18,Restaurant,Healthy,$0 - $20
+LDL,Restaurant,$18.90,12/6/18,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.20,12/1/18,Restaurant,Healthy,$0 - $20
+Hayden Block,Restaurant,$57.75,10/16/18,Restaurant,Healthy,$50 - $100
+Subway,Restaurant,$5.99,1/23/19,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$25.00,1/25/19,Restaurant,Healthy,$20 - $50
+Starbucks,Restaurant,$5.20,12/8/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,12/1/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,12/18/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.13,8/10/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/12/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,8/13/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$7.34,8/15/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.12,8/27/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$13.70,8/29/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,8/31/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,12/17/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$18.20,8/30/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,10/17/18,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$19.96,8/5/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$10.80,10/21/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,6/2/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,10/20/18,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,6/6/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,6/11/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.50,6/13/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,6/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,6/16/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$6.29,6/18/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,6/17/19,Restaurant,Healthy,$0 - $20
+Bake Chef Co,Restaurant,$8.00,7/30/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,3/2/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$7.34,3/4/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,3/6/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/7/19,Restaurant,Healthy,$0 - $20
+JPs Indian Bistro,Restaurant,$35.94,5/18/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$6.29,5/21/19,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$22.94,10/25/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$10.49,10/19/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,6/30/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$21.00,9/1/19,Restaurant,Healthy,$20 - $50
+Korean BBQ,Restaurant,$11.12,7/23/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,7/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/18/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/15/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,3/16/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/17/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$4.67,3/18/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/22/19,Restaurant,Healthy,$0 - $20
+Tim Horton's,Restaurant,$1.80,3/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.02,3/14/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/20/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/29/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,7/18/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/24/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$11.12,3/9/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$5.51,3/25/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/28/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.70,3/26/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/23/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,5/13/19,Restaurant,Healthy,$0 - $20
+Tim Horton's,Restaurant,$1.80,3/13/19,Restaurant,Healthy,$0 - $20
+Starbucks,Restaurant,$4.99,6/28/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.96,3/8/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.12,3/10/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$8.70,3/27/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$17.60,9/2/19,Restaurant,Healthy,$0 - $20
+MacHall,Restaurant,$11.54,6/4/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.12,9/6/19,Restaurant,Healthy,$0 - $20
+Earl's,Restaurant,$44.30,5/25/19,Restaurant,Healthy,$20 - $50
+Tipperary's Pub,Restaurant,$48.00,5/27/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$10.49,10/6/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.28,10/3/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.28,10/4/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/25/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/8/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/15/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,10/22/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,10/29/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/28/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,10/31/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/30/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/21/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.49,10/24/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$10.80,7/10/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.12,7/29/19,Restaurant,Healthy,$0 - $20
+McDonald's,Restaurant,$19.38,12/4/20,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$21.35,9/5/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$10.80,10/23/18,Restaurant,Healthy,$0 - $20
+Water Lantern,Restaurant,$20.00,5/25/19,Restaurant,Healthy,$0 - $20
+Higher Ground,Restaurant,$6.41,5/25/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$9.49,5/23/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$13.70,9/3/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$18.90,9/4/19,Restaurant,Healthy,$0 - $20
+Peter Lougheed Hospital,Restaurant,$17.20,9/8/19,Restaurant,Healthy,$0 - $20
+Bake Chef Co,Restaurant,$3.40,9/20/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.95,9/22/19,Restaurant,Healthy,$0 - $20
+Bake Chef Co,Restaurant,$8.00,9/26/19,Restaurant,Healthy,$0 - $20
+Subway,Restaurant,$6.71,9/26/19,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.43,4/11/20,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.96,4/13/20,Restaurant,Healthy,$0 - $20
+Opa,Restaurant,$11.43,4/12/20,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,9/25/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,2/10/20,Restaurant,Healthy,$0 - $20
+Boston Pizza,Restaurant,$32.60,7/4/19,Restaurant,Healthy,$20 - $50
+Subway,Restaurant,$9.96,10/7/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,10/26/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,10/23/19,Restaurant,Healthy,$0 - $20
+Kim Chi House,Restaurant,$16.45,5/21/19,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$25.44,8/30/20,Restaurant,Healthy,$20 - $50
+Korean BBQ,Restaurant,$11.50,10/22/19,Restaurant,Healthy,$0 - $20
+Edo,Restaurant,$10.08,5/24/19,Restaurant,Healthy,$0 - $20
+Shirley,Rent,$670.00,10/2/18,Other,Healthy,>$100
+Shirley,Rent,$670.00,7/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,3/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,5/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,1/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,6/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,12/1/18,Other,Healthy,>$100
+Shirley,Rent,$670.00,7/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,4/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,9/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,9/1/18,Other,Healthy,>$100
+Shirley,Rent,$670.00,11/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,8/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,5/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,10/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,11/1/18,Other,Healthy,>$100
+Shirley,Rent,$670.00,8/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,3/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,2/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,2/1/20,Other,Healthy,>$100
+Shirley,Rent,$670.00,1/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,12/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,6/1/19,Other,Healthy,>$100
+Shirley,Rent,$670.00,4/1/20,Other,Healthy,>$100
+Dollarama,Personal,$4.54,9/4/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$10.49,2/13/20,Other,Healthy,$0 - $20
+Wal-Mart,Personal,$80.68,3/31/19,Other,Healthy,$50 - $100
+Wal-Mart,Personal,$88.82,12/21/19,Other,Healthy,$50 - $100
+Wal-Mart,Personal,$66.73,11/10/18,Other,Healthy,$50 - $100
+Wal-Mart,Personal,$58.46,9/2/18,Other,Healthy,$50 - $100
+Wal-Mart,Personal,$69.69,5/8/19,Other,Healthy,$50 - $100
+Wal-Mart,Personal,$17.12,12/28/19,Other,Healthy,$0 - $20
+Freedom Mobile,Personal,$27.30,1/29/19,Other,Healthy,$20 - $50
+Liquor Depot,Personal,$10.58,5/31/19,Other,Healthy,$0 - $20
+Frank Driving School,Personal,$68.25,10/9/19,Other,Healthy,$50 - $100
+Greta,New Years!,$85.85,12/31/18,Other,Healthy,$50 - $100
+Home Depot,L-Bracket,$3.13,9/17/18,Other,Healthy,$0 - $20
+Chatters,Hair Cut,$44.68,11/30/18,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$32.60,1/23/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,12/27/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,10/25/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,4/24/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,5/31/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$32.60,2/11/20,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$26.57,10/23/18,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,9/5/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.60,12/12/20,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,8/7/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$42.26,9/25/18,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$20.53,7/2/19,Other,Healthy,$20 - $50
+Active Living,Gym Membership,$231.00,9/14/18,Other,Healthy,>$100
+Superstore,Food,$32.22,10/28/18,Food,Healthy,$20 - $50
+Bake Chef Co,Food,$32.00,11/30/18,Food,Healthy,$20 - $50
+Subway,Food,$8.39,11/30/18,Food,Healthy,$0 - $20
+Superstore,Food,$64.63,11/24/18,Food,Healthy,$50 - $100
+Subway,Food,$8.39,11/23/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/22/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/21/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/20/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/18/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/14/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,12/19/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,12/18/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,12/15/18,Food,Healthy,$0 - $20
+Superstore,Food,$74.58,12/20/18,Food,Healthy,$50 - $100
+Subway,Food,$8.39,12/7/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,12/8/18,Food,Healthy,$0 - $20
+Superstore,Food,$36.91,12/3/18,Food,Healthy,$20 - $50
+Superstore,Food,$10.32,10/9/18,Food,Healthy,$0 - $20
+Subway,Food,$10.80,10/21/18,Food,Healthy,$0 - $20
+Superstore,Food,$63.63,10/13/18,Food,Healthy,$50 - $100
+Wal-Mart,Food,$29.39,1/13/19,Food,Healthy,$20 - $50
+Superstore,Food,$76.79,1/31/19,Food,Healthy,$50 - $100
+Superstore,Food,$116.41,1/4/19,Food,Healthy,>$100
+Subway,Food,$5.24,11/10/18,Food,Healthy,$0 - $20
+Superstore,Food,$104.61,5/1/19,Food,Healthy,>$100
+Superstore,Food,$147.59,1/4/20,Food,Healthy,>$100
+Superstore,Food,$67.28,9/21/19,Food,Healthy,$50 - $100
+Subway,Food,$10.80,11/5/18,Food,Healthy,$0 - $20
+Superstore,Food,$106.68,5/29/19,Food,Healthy,>$100
+Blaze Pizza,Food,$13.49,9/5/18,Food,Healthy,$0 - $20
+Bake Chef Co,Food,$2.00,9/19/18,Food,Healthy,$0 - $20
+Dominos,Food,$33.00,9/21/18,Food,Healthy,$20 - $50
+Superstore,Food,$46.22,9/26/18,Food,Healthy,$20 - $50
+Dominos,Food,$34.08,11/2/18,Food,Healthy,$20 - $50
+Subway,Food,$10.80,11/2/18,Food,Healthy,$0 - $20
+Subway,Food,$6.20,11/3/18,Food,Healthy,$0 - $20
+Superstore,Food,$73.74,12/27/18,Food,Healthy,$50 - $100
+Subway,Food,$9.96,11/4/18,Food,Healthy,$0 - $20
+Subway,Food,$10.80,11/6/18,Food,Healthy,$0 - $20
+Subway,Food,$8.39,11/7/18,Food,Healthy,$0 - $20
+Superstore,Food,$56.37,8/16/18,Food,Healthy,$50 - $100
+London Drugs,Food,$3.66,4/29/19,Food,Healthy,$0 - $20
+Landmark Cinema,Entertainment,$18.91,4/13/19,Other,Healthy,$0 - $20
+Level 1 Escape,Entertainment,$20.95,10/12/18,Other,Healthy,$20 - $50
+Steam,Entertainment,$3.44,12/29/18,Other,Healthy,$0 - $20
+Canadian Tire,Electronics,$17.84,12/26/19,Other,Healthy,$0 - $20
+Canadian Tire,Electronics,$8.38,12/28/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,6/21/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,6/17/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,6/16/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,6/12/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,12/7/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/27/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/20/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,7/7/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,6/22/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,8/14/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/29/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/24/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,1/31/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.41,6/28/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,7/8/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,7/2/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/6/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,7/18/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,6/6/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,7/19/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,7/29/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/31/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/28/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/27/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/24/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/22/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/21/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.83,3/15/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,6/30/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,8/12/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/9/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,7/27/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,8/23/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$7.30,10/13/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,8/20/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,8/24/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/20/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,8/19/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/16/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,9/13/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/23/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,9/15/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,9/11/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,1/17/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/25/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,9/20/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,9/3/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/14/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/3/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,8/8/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,3/7/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/30/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/22/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,10/19/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/19/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/17/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/16/19,Other,Healthy,$0 - $20
+Good Earth,Coffee,$5.70,8/4/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/18/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,10/11/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,10/15/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/14/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,7/3/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,3/6/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,7/10/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,3/2/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/28/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.99,2/22/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/20/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/16/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/8/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/20/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/1/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/30/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/27/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/6/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/3/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/13/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/17/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/9/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,2/7/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,3/3/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,4/14/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,8/1/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.72,4/24/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,9/1/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,1/9/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,8/5/20,Other,Healthy,$0 - $20
+Good Earth,Coffee,$2.76,9/26/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,8/31/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,8/22/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,9/18/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,8/12/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/8/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,2/25/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/21/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,4/6/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,11/27/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.70,7/30/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,7/30/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/24/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,11/1/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,12/10/19,Other,Healthy,$0 - $20
+Good Earth,Coffee,$9.96,12/12/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,12/13/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/17/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,12/15/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/3/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,9/16/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.67,5/5/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/12/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,12/21/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,12/22/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,11/7/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/9/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/21/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/23/20,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,11/5/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/29/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,11/11/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,11/22/19,Other,Healthy,$0 - $20
+Coffee Company,Coffee,$5.20,11/23/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/13/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.20,5/19/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,12/31/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,11/24/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.51,11/17/19,Other,Healthy,$0 - $20
+Old Navy,Clothing,$47.84,11/30/18,Other,Healthy,$20 - $50
+Old Navy,Clothing,$55.78,4/4/19,Other,Healthy,$50 - $100
+Wellness Centre,Chiropractor,$35.00,2/20/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,7/5/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,2/1/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,1/23/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,5/24/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,4/22/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,9/6/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,6/21/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,4/1/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,10/31/18,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,11/23/18,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,12/14/18,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$35.00,7/8/19,Other,Healthy,$20 - $50
+London Drugs,Candy,$2.08,11/7/18,Other,Healthy,$0 - $20
+Calgary Transit,Bus Pass,$5.30,3/12/19,Other,Healthy,$0 - $20
+Calgary Transit,Bus Pass,$5.15,9/17/18,Other,Healthy,$0 - $20
+Calgary Transit,Bus Pass,$5.15,10/30/18,Other,Healthy,$0 - $20
+Calgary Transit,Bus Pass,$5.15,11/28/18,Other,Healthy,$0 - $20
+Calgary Transit,Bus Pass,$5.30,1/21/19,Other,Healthy,$0 - $20
+Hayden Block,Bar,$14.70,10/24/18,Other,Healthy,$0 - $20
+The Den,Bar,$19.55,10/17/18,Other,Healthy,$0 - $20
+Liquor Depot,Alcohol,$72.63,6/27/20,Other,Healthy,$50 - $100
+Liquor Depot,Alcohol,$12.25,11/1/19,Other,Healthy,$0 - $20
+Liquor Depot,Alcohol,$19.60,10/12/19,Other,Healthy,$0 - $20
+Liquor Depot,Alcohol,$31.74,12/31/19,Other,Healthy,$20 - $50
+Liquor Depot,Alcohol,$73.73,3/19/20,Other,Healthy,$50 - $100
+Liquor Depot,Alcohol,$17.91,3/14/20,Other,Healthy,$0 - $20
+Liquor Depot,Alcohol,$17.91,10/25/19,Other,Healthy,$0 - $20
+Safeway,Workout,$39.71,1/7/19,Other,Healthy,$20 - $50
+Wal-Mart,Workout,$9.94,2/27/19,Other,Healthy,$0 - $20
+Active Living,Workout,$546.00,9/16/19,Other,Healthy,>$100
+Safeway,Workout,$27.45,1/8/19,Other,Healthy,$20 - $50
+GNC,Workout,$82.90,1/4/19,Other,Healthy,$50 - $100
+Staples,Work,$32.38,8/23/19,Other,Healthy,$20 - $50
+Staples,Work,$53.95,8/21/19,Other,Healthy,$50 - $100
+Calgary City Cabs,Transportation,$35.60,6/1/20,Other,Healthy,$20 - $50
+Uber,Transportation,$36.84,1/1/19,Other,Healthy,$20 - $50
+Kensington Pub,Restaurant,$7.88,8/9/19,Restaurant,Healthy,$0 - $20
+Canadian Pizza Unlimited,Restaurant,$20.00,3/20/20,Restaurant,Healthy,$0 - $20
+Dominos,Restaurant,$20.56,11/20/20,Restaurant,Healthy,$20 - $50
+Dominos,Restaurant,$20.02,11/1/20,Restaurant,Healthy,$20 - $50
+Tim Horton's,Restaurant,$6.08,1/6/19,Restaurant,Healthy,$0 - $20
+Supreme Pizza,Restaurant,$32.60,11/30/19,Restaurant,Healthy,$20 - $50
+Den,Restaurant,$11.50,1/10/19,Restaurant,Healthy,$0 - $20
+The Hidden Spot,Restaurant,$50.42,12/30/19,Restaurant,Healthy,$50 - $100
+Wendy's,Restaurant,$23.34,8/16/19,Restaurant,Healthy,$20 - $50
+Freshii,Restaurant,$13.01,8/28/19,Restaurant,Healthy,$0 - $20
+Rosso Coffee,Restaurant,$5.72,6/15/19,Restaurant,Healthy,$0 - $20
+Coffee Company,Restaurant,$8.50,6/20/19,Restaurant,Healthy,$0 - $20
+Dairy Queen,Restaurant,$17.28,5/19/19,Restaurant,Healthy,$0 - $20
+McDonald's,Restaurant,$13.40,7/21/20,Restaurant,Healthy,$0 - $20
+McDonald's,Restaurant,$18.65,7/20/20,Restaurant,Healthy,$0 - $20
+Bake Chef Co,Restaurant,$16.00,10/31/19,Restaurant,Healthy,$0 - $20
+Little Caesars,Restaurant,$15.00,9/19/20,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$2.39,5/13/19,Restaurant,Healthy,$0 - $20
+South St Burger,Restaurant,$13.11,10/1/19,Restaurant,Healthy,$0 - $20
+Korean BBQ,Restaurant,$11.50,1/30/20,Restaurant,Healthy,$0 - $20
+Wendy's,Restaurant,$5.86,1/29/20,Restaurant,Sick,$0 - $20
+Midtown Bar,Restaurant,$36.75,8/9/19,Restaurant,Healthy,$20 - $50
+Dominos,Restaurant,$75.59,9/14/19,Restaurant,Healthy,$50 - $100
+Blaze Pizza,Restaurant,$14.33,9/19/19,Restaurant,Healthy,$0 - $20
+McDonald's,Restaurant,$15.27,8/8/20,Restaurant,Healthy,$0 - $20
+Denny's,Restaurant,$15.93,8/29/20,Restaurant,Healthy,$0 - $20
+Popeyes Chicken,Restaurant,$50.61,8/7/20,Restaurant,Healthy,$50 - $100
+London Drugs,Personal,$3.45,4/18/19,Other,Healthy,$0 - $20
+Safeway,Personal,$11.54,9/2/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$11.54,11/15/19,Other,Healthy,$0 - $20
+Sunridge Mall Kiosk,Personal,$36.75,11/16/19,Other,Healthy,$20 - $50
+Safeway,Personal,$43.14,4/28/19,Other,Healthy,$20 - $50
+London Drugs,Personal,$4.19,11/1/19,Other,Healthy,$0 - $20
+Justice,Personal,$8.40,1/18/20,Other,Healthy,$0 - $20
+UofC Bookstore,Personal,$6.29,12/5/19,Other,Healthy,$0 - $20
+Dollarama,Personal,$13.53,11/9/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$5.76,11/20/19,Other,Healthy,$0 - $20
+Freedom Mobile,Personal,$472.50,4/1/19,Other,Healthy,>$100
+Anytime Fitness,Personal,$65.08,9/21/20,Other,Healthy,$50 - $100
+Bed Bath & Beyond,Personal,$100.00,11/1/19,Other,Healthy,$50 - $100
+Safeway,Personal,$7.34,8/25/20,Other,Healthy,$0 - $20
+Safeway,Personal,$39.52,3/7/20,Other,Healthy,$20 - $50
+Safeway,Personal,$23.39,2/15/20,Other,Healthy,$20 - $50
+Wal-Mart,Personal,$165.19,7/12/19,Other,Healthy,>$100
+London Drugs,Personal,$7.13,7/24/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$89.48,9/7/20,Other,Healthy,$50 - $100
+Anytime Fitness,Personal,$52.49,9/10/20,Other,Healthy,$50 - $100
+London Drugs,Personal,$13.64,1/19/20,Other,Healthy,$0 - $20
+Canada Post,Personal,$17.43,11/5/19,Other,Healthy,$0 - $20
+Calgary Transit,Personal,$5.30,8/21/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$5.24,8/13/19,Other,Healthy,$0 - $20
+Safeway,Personal,$35.00,10/10/20,Other,Healthy,$20 - $50
+Wal-Mart,Personal,$23.05,8/16/20,Other,Healthy,$20 - $50
+London Drugs,Personal,$15.74,12/21/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$6.29,11/16/20,Other,Healthy,$0 - $20
+Rona,Personal,$15.20,12/23/19,Other,Healthy,$0 - $20
+London Drugs,Personal,$6.30,9/22/20,Other,Healthy,$0 - $20
+London Drugs,Personal,$19.62,10/12/20,Other,Healthy,$0 - $20
+London Drugs,Personal,$15.74,5/21/20,Other,Healthy,$0 - $20
+London Drugs,Personal,$35.00,8/14/20,Other,Healthy,$20 - $50
+Wal-Mart,Personal,$80.78,9/14/19,Other,Healthy,$50 - $100
+London Drugs,Personal,$39.89,10/14/20,Other,Healthy,$20 - $50
+Freedom Mobile,Personal,$21.00,1/2/19,Other,Healthy,$20 - $50
+London Drugs,Personal,$7.34,10/31/20,Other,Healthy,$0 - $20
+Registry Express Inc,Personal,$22.45,10/11/19,Other,Healthy,$20 - $50
+Bound and Copied,Personal,$31.11,12/11/19,Other,Healthy,$20 - $50
+London Drugs,Personal,$4.19,1/17/20,Other,Healthy,$0 - $20
+Wal-Mart,Personal,$65.47,5/9/20,Other,Healthy,$50 - $100
+Safeway,Personal,$10.49,2/2/19,Other,Healthy,$0 - $20
+Safeway,Medicine,$4.19,10/18/19,Other,Healthy,$0 - $20
+Wellness Centre,Massage,$90.00,9/10/19,Other,Healthy,$50 - $100
+Wellness Centre,Massage,$52.00,2/8/19,Other,Healthy,$50 - $100
+Canada Post,Mail,$20.81,9/3/19,Other,Healthy,$20 - $50
+Active Living,Locker,$151.00,1/6/20,Other,Healthy,>$100
+Chatters,Hair Cut,$44.68,7/26/20,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$39.85,11/24/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,3/14/19,Other,Healthy,$20 - $50
+Chatters,Hair Cut,$44.68,10/1/20,Other,Healthy,$20 - $50
+Safeway,Food,$38.39,2/16/19,Food,Healthy,$20 - $50
+London Drugs,Food,$36.25,2/3/19,Food,Healthy,$20 - $50
+Safeway,Food,$111.60,9/18/20,Food,Healthy,>$100
+Safeway,Food,$11.94,9/27/20,Food,Healthy,$0 - $20
+Safeway,Food,$11.99,8/29/19,Food,Healthy,$0 - $20
+Safeway,Food,$5.37,12/1/19,Food,Healthy,$0 - $20
+Safeway,Food,$21.26,1/29/19,Food,Healthy,$20 - $50
+Safeway,Food,$52.78,1/22/19,Food,Healthy,$50 - $100
+Safeway,Food,$48.00,1/31/19,Food,Healthy,$20 - $50
+Safeway,Food,$53.41,1/16/19,Food,Healthy,$50 - $100
+Safeway,Food,$15.04,3/19/20,Food,Healthy,$0 - $20
+Safeway,Food,$65.50,12/2/19,Food,Healthy,$50 - $100
+Safeway,Food,$41.74,7/1/19,Food,Healthy,$20 - $50
+Safeway,Food,$8.82,1/27/20,Food,Sick,$0 - $20
+Safeway,Food,$28.78,1/28/20,Food,Sick,$20 - $50
+Safeway,Food,$21.97,1/31/20,Food,Sick,$20 - $50
+Safeway,Food,$10.98,1/25/20,Food,Sick,$0 - $20
+Superstore,Food,$94.19,9/10/19,Food,Healthy,$50 - $100
+Superstore,Food,$219.29,9/2/19,Food,Healthy,>$100
+Safeway,Food,$14.59,9/22/19,Food,Sick,$0 - $20
+Safeway,Food,$7.99,10/25/19,Food,Healthy,$0 - $20
+Superstore,Food,$153.73,4/11/20,Food,Healthy,>$100
+Safeway,Food,$77.58,6/26/19,Food,Healthy,$50 - $100
+Safeway,Food,$50.21,1/22/20,Food,Healthy,$50 - $100
+Safeway,Food,$20.37,2/29/20,Food,Healthy,$20 - $50
+Safeway,Food,$5.06,6/30/19,Food,Healthy,$0 - $20
+Safeway,Food,$33.86,5/15/19,Food,Healthy,$20 - $50
+Safeway,Food,$11.01,12/8/20,Food,Healthy,$0 - $20
+Safeway,Food,$21.61,6/28/19,Food,Healthy,$20 - $50
+Safeway,Food,$2.49,3/4/19,Food,Healthy,$0 - $20
+Stor,Food,$2.25,8/6/19,Food,Healthy,$0 - $20
+Safeway,Food,$35.43,4/2/19,Food,Healthy,$20 - $50
+Safeway,Food,$14.30,10/10/20,Food,Healthy,$0 - $20
+Superstore,Food,$0.63,9/10/18,Food,Healthy,$0 - $20
+Safeway,Food,$44.45,11/24/20,Food,Healthy,$20 - $50
+Safeway,Food,$27.91,11/23/20,Food,Healthy,$20 - $50
+Safeway,Food,$4.84,11/13/19,Food,Healthy,$0 - $20
+Safeway,Food,$4.99,8/24/20,Food,Healthy,$0 - $20
+Safeway,Food,$74.15,1/17/20,Food,Healthy,$50 - $100
+Safeway,Food,$38.05,11/20/19,Food,Healthy,$20 - $50
+Safeway,Food,$31.10,10/6/20,Food,Healthy,$20 - $50
+Safeway,Food,$32.03,10/5/20,Food,Healthy,$20 - $50
+London Drugs,Fitness,$6.60,4/5/19,Other,Healthy,$0 - $20
+SportChek,Fitness,$104.98,2/7/19,Other,Healthy,>$100
+Winners,Fitness,$41.98,2/27/19,Other,Healthy,$20 - $50
+SportChek,Fitness,$10.49,2/9/19,Other,Healthy,$0 - $20
+Active Living,Fitness,$21.00,2/17/19,Other,Healthy,$20 - $50
+Calgary Tower,Entertainment,$56.70,1/11/20,Other,Healthy,$50 - $100
+Steam,Entertainment,$5.97,9/26/20,Other,Healthy,$0 - $20
+Cineplex,Entertainment,$8.99,11/10/20,Other,Healthy,$0 - $20
+Landmark Cinema,Entertainment,$5.00,6/28/20,Other,Healthy,$0 - $20
+Hexagon Café,Entertainment,$35.73,8/10/19,Other,Healthy,$20 - $50
+A/Maze,Entertainment,$31.50,1/10/20,Other,Healthy,$20 - $50
+CaravelNet,Entertainment,$13.81,1/14/19,Other,Healthy,$0 - $20
+London Drugs,Entertainment,$78.74,4/5/20,Other,Healthy,$50 - $100
+Bestbuy,Electronics,$41.99,1/14/19,Other,Healthy,$20 - $50
+Canadian Tire,Electronics,$15.74,1/14/19,Other,Healthy,$0 - $20
+Kaspersky,Electronics,$65.99,1/2/19,Other,Healthy,$50 - $100
+Good Earth,Coffee,$11.27,12/16/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.72,7/1/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.41,7/18/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.93,7/4/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$16.54,2/28/20,Other,Healthy,$0 - $20
+Good Earth,Coffee,$3.03,9/27/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$4.99,12/24/19,Other,Healthy,$0 - $20
+Starbucks,Coffee,$6.25,5/31/20,Other,Healthy,$0 - $20
+Starbucks,Coffee,$5.41,7/11/20,Other,Healthy,$0 - $20
+Le Chateau,Clothing,$23.10,11/24/19,Other,Healthy,$20 - $50
+Old Navy,Clothing,$54.35,1/24/19,Other,Healthy,$50 - $100
+H & M,Clothing,$27.27,1/11/20,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$40.00,8/16/19,Other,Healthy,$20 - $50
+Wellness Centre,Chiropractor,$40.00,12/6/19,Other,Healthy,$20 - $50
+Liquor Depot,Alcohol,$21.09,11/14/20,Other,Healthy,$20 - $50
+Liquor Depot,Alcohol,$17.91,10/22/20,Other,Healthy,$0 - $20
+Liquor Depot,Alcohol,$99.85,12/14/19,Other,Healthy,$50 - $100
